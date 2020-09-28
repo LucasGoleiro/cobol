@@ -69,25 +69,25 @@
        01  TELA2.
            05  BLANK SCREEN.
            05  LINE 01  COLUMN 01 
-               VALUE  "                            зддддддддддд".
+               VALUE  "                            О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫".
            05  LINE 01  COLUMN 41 
-               VALUE  "дддддддддд©".
+               VALUE  "О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©".
            05  LINE 02  COLUMN 01 
-               VALUE  "                            Ё CADASTRO D".
+               VALUE  "                            О©╫ CADASTRO D".
            05  LINE 02  COLUMN 41 
-               VALUE  "E AMIGOS  Ё".
+               VALUE  "E AMIGOS  О©╫".
            05  LINE 03  COLUMN 01 
-               VALUE  "                            юддддддддддд".
+               VALUE  "                            О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫".
            05  LINE 03  COLUMN 41 
-               VALUE  "дддддддддды".
+               VALUE  "О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫".
            05  LINE 04  COLUMN 01 
-               VALUE  "  зддддддддддддддддддддддддд©".
+               VALUE  "  О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫д©".
            05  LINE 05  COLUMN 01 
-               VALUE  "  Ё APELIDO :               Ё      NOME".
+               VALUE  "  О©╫ APELIDO :               О©╫      NOME".
            05  LINE 05  COLUMN 41 
                VALUE  ":".
            05  LINE 06  COLUMN 01 
-               VALUE  "  юддддддддддддддддддддддддды".
+               VALUE  "  О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫О©╫".
            05  LINE 08  COLUMN 01 
                VALUE  "    EMAIL  :".
            05  LINE 11  COLUMN 01 
@@ -310,9 +310,9 @@
        FIM-ROT-TEMPO.
 
       *    FILE STATUS
-      *    00 = OPERAгцO REALIZADO COM SUCESSO
-      *    22 = REGISTRO Jа CADASTRADO
-      *    23 = REGISTRO NцO ENCONTRADO
-      *    30 = ARQUIVO NцO ENCONTRADO
+      *    00 = OPERAО©╫О©╫O REALIZADO COM SUCESSO
+      *    22 = REGISTRO JО©╫ CADASTRADO
+      *    23 = REGISTRO NО©╫O ENCONTRADO
+      *    30 = ARQUIVO NО©╫O ENCONTRADO
       
 

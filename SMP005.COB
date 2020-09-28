@@ -108,7 +108,7 @@
               IF ST-ERRO = "30"
                  OPEN OUTPUT CADCEP
                  CLOSE CADCEP
-                 MOVE "*** ARQUIVO CADMED FOI CRIADO **" TO MENS
+                 MOVE "*** ARQUIVO CADCEP FOI CRIADO **" TO MENS
                  PERFORM ROT-MENS THRU ROT-MENS-FIM
                  GO TO R0
               ELSE
@@ -124,11 +124,11 @@
            DISPLAY TELA2.
 
        R2.
-           ACCEPT(01, 15) CODIGO. 
-           ACCEPT(02, 15) ENDERECO.
-           ACCEPT(03, 15) BAIRRO.
-           ACCEPT(04, 15) CIDADE.
-           ACCEPT(05, 15) ESTADO.
+           ACCEPT(01, 20) CODIGO. 
+           ACCEPT(02, 20) ENDERECO.
+           ACCEPT(03, 20) BAIRRO.
+           ACCEPT(04, 20) CIDADE.
+           ACCEPT(05, 20) ESTADO.
            WRITE REGCEP.
 
        ROT-FIM.
