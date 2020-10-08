@@ -3,7 +3,7 @@
        AUTHOR. LUCAS COELHO DOS SANTOS.
 
       *******************************************
-      * PROGRAMA PARA CADASTRO DE VEICULOS  *
+      * PROGRAMA PARA CADASTRO DE MEDICOS  *
       *******************************************
        
       *----------------------------------------------------------------
@@ -52,7 +52,7 @@
        01 TEXSEXO       PIC X(12) VALUE SPACES.     
 
        01 TABMED.
-          03 TBMED    PIC X(10) OCCURS 9 TIMES.
+          03 TBMED    PIC X(10) OCCURS 2 TIMES.
 
        01 TABSEXOX.
           03 FILLER     PIC X(15) VALUE "FFEMININO".
