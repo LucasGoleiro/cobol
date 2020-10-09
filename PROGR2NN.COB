@@ -496,9 +496,9 @@
        FIM-ROT-TEMPO.
 
       *    FILE STATUS
-      *    00 = OPERAÇÃO REALIZADO COM SUCESSO
-      *    22 = REGISTRO JÁ CADASTRADO
-      *    23 = REGISTRO NÃO ENCONTRADO
-      *    30 = ARQUIVO NÃO ENCONTRADO
+      *    00 = OPERAï¿½ï¿½O REALIZADO COM SUCESSO
+      *    22 = REGISTRO Jï¿½ CADASTRADO
+      *    23 = REGISTRO Nï¿½O ENCONTRADO
+      *    30 = ARQUIVO Nï¿½O ENCONTRADO
       
 
